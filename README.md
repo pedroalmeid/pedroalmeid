@@ -22,3 +22,8 @@
     <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
 </div>
+
+### Contact me
+
+- ✉ pedroalmeid@ignos.com.br
+- 📞 +1 (579) 209-9042 (Whatsapp)
