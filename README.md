@@ -3,6 +3,7 @@
 - 🇧🇷 Brazilian
 - 📚 Student
 - 🎨 UX/UI Skills
+- 🛠 Ready to some freelance projects
 
 <br>
 
