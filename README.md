@@ -25,6 +25,12 @@
 
 <br>
 
+### Portifolios
+
+- CODE: This GitHub
+- VISUAL: [My Behance](https://behance.net/pedroalmeida58)
+- WORK: [My LinkedIn](https://www.linkedin.com/in/pedro-jos%C3%A9-almeida-6a8120220/)
+
 ### Contact me
 
 - ✉ pedroalmeid@ignos.com.br
