@@ -11,17 +11,9 @@
 
 <br>
 
-### Technologies
+### Technologies (My Stack)
 
-<p>Techs that I've worked with, that I'm currently studying or that I'm interested in</p>
-<div style="display: inline_block"><br>
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-    <img align="center" alt="ReactJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="center" alt="NextJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-</div>
+React Native with Typescript
 
 <br>
 
