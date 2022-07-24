@@ -13,7 +13,7 @@
 
 ### Technologies (My Stack)
 
-React Native with Typescript
+Flutter with Dart
 
 <br>
 
