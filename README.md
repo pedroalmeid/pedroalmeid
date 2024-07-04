@@ -1,9 +1,7 @@
 ## Hello World, I'm Pedro Almeida! 👋
 
-- 🇧🇷 Brazilian
-- 📚 Student
-- 🎨 UX/UI Skills
-- 🛠 Ready to some freelance projects
+- 📚 Full-time Computer Science student at the Federal University of Juiz de Fora
+- 🎨 UX/UI skills based on Freelancing experiences
 
 <br>
 
@@ -11,9 +9,10 @@
 
 <br>
 
-### Technologies (My Stack)
-
-Flutter with Dart
+### Technologies of Interest
+ - Elixir
+ - C++
+ - JavaScript
 
 <br>
 
@@ -25,5 +24,5 @@ Flutter with Dart
 
 ### Contact me
 
-- ✉ pedroalmeid@ignos.com.br
-- 📞 +1 (579) 209-9042 (Whatsapp)
+- +1 (579) 209-9042 (Whatsapp)
+- #pedroalmeid1 (Discord)
