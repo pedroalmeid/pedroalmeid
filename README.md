@@ -13,6 +13,7 @@
  - Elixir
  - C++
  - JavaScript
+ - HTML/CSS
 
 <br>
 
