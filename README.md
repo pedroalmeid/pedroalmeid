@@ -10,10 +10,10 @@
 <br>
 
 ### Technologies of Interest
- - Elixir
+ - NodeJS
  - C++
- - JavaScript
- - HTML/CSS
+ - Elixir
+ - HTML/CSS/JavaScript
 
 <br>
 
